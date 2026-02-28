@@ -239,15 +239,6 @@ const Index = () => {
         )}
       </div>
 
-      {/* Footer */}
-      <footer className="mt-8 text-center">
-        <p
-          className="text-sm font-medium"
-          style={{ color: dark ? 'hsl(220 20% 70%)' : 'hsl(0 0% 100% / 0.8)' }}
-        >
-          Built with ❤️ using HTML, CSS & JavaScript
-        </p>
-      </footer>
     </div>
   );
 };
